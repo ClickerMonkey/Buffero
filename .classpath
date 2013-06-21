@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Source"/>
+	<classpathentry kind="src" path="Testing"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<accessrules>
+			<accessrule kind="accessible" pattern="sun/misc/Cleaner"/>
+			<accessrule kind="accessible" pattern="sun/nio/ch/DirectBuffer"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/Testing-Utility"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Concurrency-Utility"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
