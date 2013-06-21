@@ -44,6 +44,15 @@ if (!in.isValid()) {
 
 https://github.com/ClickerMonkey/buffero/tree/master/build
 
+**Projects using buffero:**
+- [statastic](https://github.com/ClickerMonkey/statastic)
+- [daperz](https://github.com/ClickerMonkey/daperz)
+- [falcon](https://github.com/ClickerMonkey/falcon)
+
+**Dependencies**
+- [curity](https://github.com/ClickerMonkey/curity)
+- [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
+
 **Testing Examples**
 
 https://github.com/ClickerMonkey/buffero/tree/master/Testing/org/magnos/io
