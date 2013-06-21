@@ -41,8 +41,10 @@ if (!in.isValid()) {
 ```
 
 **Builds**
-
-https://github.com/ClickerMonkey/buffero/tree/master/build
+- [buffero-1.0.0.jar](https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-1.0.0.jar?raw=true)
+- [buffero-src-1.0.0.jar](https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes source code*
+- [buffero-all-1.0.0.jar](https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-1.0.0.jar?raw=true) *- includes all dependencies*
+- [buffero-all-src-1.0.0.jar](https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using buffero:**
 - [statastic](https://github.com/ClickerMonkey/statastic)
@@ -54,5 +56,4 @@ https://github.com/ClickerMonkey/buffero/tree/master/build
 - [testility](https://github.com/ClickerMonkey/testility) *for unit tests*
 
 **Testing Examples**
-
-https://github.com/ClickerMonkey/buffero/tree/master/Testing/org/magnos/io
+- [Testing/org/magnos/io](https://github.com/ClickerMonkey/buffero/tree/master/Testing/org/magnos/io)
