@@ -7,6 +7,9 @@ A Java library used for efficiently working with ByteBuffers.
 - A way to write to ByteBuffers that avoids BufferOverflow and BufferUnderflow exceptions. This means the object you write to either resizes the underlying buffer or has a chain of buffers, and the object you read from is marked as invalid if there isn't enough data - and default values are returned.
 - BufferFactory has several implementations to quickly allocate, cache, reuse, and dispose of ByteBuffers
 
+**Documentation**
+- [JavaDoc](http://clickermonkey.github.com/buffero/)
+
 **Example**
 
 ```java
