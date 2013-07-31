@@ -1,6 +1,8 @@
 buffero
 =======
 
+![Stable](http://i4.photobucket.com/albums/y123/Freaklotr4/stage_stable.png)
+
 A Java library used for efficiently working with ByteBuffers.
 
 **Features**
