@@ -10,7 +10,7 @@ A Java library used for efficiently working with ByteBuffers.
 - BufferFactory has several implementations to quickly allocate, cache, reuse, and dispose of ByteBuffers
 
 **Documentation**
-- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/buffero/)
+- [JavaDoc](http://gh.magnos.org/?r=http://clickermonkey.github.com/Buffero/)
 
 **Example**
 
@@ -50,19 +50,19 @@ if (!in.isValid()) {
 ```
 
 **Builds**
-- [buffero-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-1.0.0.jar?raw=true)
-- [buffero-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes source code*
-- [buffero-all-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-1.0.0.jar?raw=true) *- includes all dependencies*
-- [buffero-all-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
+- [buffero-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Buffero/blob/master/build/buffero-1.0.0.jar?raw=true)
+- [buffero-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes source code*
+- [buffero-all-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Buffero/blob/master/build/buffero-1.0.0.jar?raw=true) *- includes all dependencies*
+- [buffero-all-src-1.0.0.jar](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Buffero/blob/master/build/buffero-src-1.0.0.jar?raw=true) *- includes all dependencies and source code*
 
 **Projects using buffero:**
-- [statastic](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/statastic)
-- [daperz](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/daperz)
-- [falcon](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/falcon)
+- [statastic](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Statastic)
+- [daperz](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Daperz)
+- [falcon](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Falcon)
 
 **Dependencies**
-- [curity](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/curity)
-- [testility](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/testility) *for unit tests*
+- [curity](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Curity)
+- [testility](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Testility) *for unit tests*
 
 **Testing Examples**
-- [Testing/org/magnos/io](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/buffero/tree/master/Testing/org/magnos/io)
+- [Testing/org/magnos/io](http://gh.magnos.org/?r=https://github.com/ClickerMonkey/Buffero/tree/master/Testing/org/magnos/io)
